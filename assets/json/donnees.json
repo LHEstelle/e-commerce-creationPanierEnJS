@@ -1,22 +1,17 @@
 {
-<<<<<<< HEAD:donnees.json
     "results": [{
-=======
-    "results": [
-        {
->>>>>>> 3aac263f9fa831351df451057a14807678560e9a:assets/json/donnees.json
             "id": 1,
             "title": "Tee shirt bleu",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "teeshirtbleu.jpg",
             "price": "25€",
             "categorie": "teeShirt"
         },
         {
             "id": 2,
-            "title": "Tee shirt Obama",
+            "title": "Tee shirt Enfant",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "teeshirtenfant.jpg",
             "price": "25€",
             "categorie": "teeShirt"
 
@@ -24,9 +19,9 @@
 
         {
             "id": 3,
-            "title": "Tee shirt bleu",
+            "title": "Tee shirt jaune",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "teeshirtjaune.jpg",
             "price": "25€",
             "categorie": "teeShirt"
 
@@ -34,9 +29,9 @@
 
         {
             "id": 4,
-            "title": "Tee shirt bleu",
+            "title": "Tee shirt phrase",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "teeshirtphrase.jpg",
             "price": "25€",
             "categorie": "teeShirt"
 
@@ -44,9 +39,9 @@
 
         {
             "id": 5,
-            "title": "Chaussure air jordan",
+            "title": "Chaussure Nike",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "chaussure1.jpg",
             "price": "25€",
             "categorie": "chaussure"
 
@@ -54,63 +49,63 @@
 
         {
             "id": 6,
-            "title": "Chaussure air jordan",
+            "title": "Chaussure Adidas",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "chaussure2.jpg",
             "price": "25€",
             "categorie": "chaussure"
         },
 
         {
             "id": 7,
-            "title": "Chaussure air jordan",
+            "title": "Chaussure Nike femme",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "chaussure3.jpg",
             "price": "25€",
             "categorie": "chaussure"
         },
 
         {
             "id": 8,
-            "title": "Chaussure air jordan",
+            "title": "Chaussure Air jordan",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "chaussure4.jpg",
             "price": "25€",
             "categorie": "chaussure"
         },
 
         {
             "id": 9,
-            "title": "Casquette",
+            "title": "Casquette Timberland",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "casquette1.jpg",
             "price": "25€",
             "categorie": "casquette"
         },
 
         {
             "id": 10,
-            "title": "Casquette",
+            "title": "Casquette Heineken",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "casquette2.jpg",
             "price": "25€",
             "categorie": "casquette"
         },
 
         {
             "id": 11,
-            "title": "Casquette",
+            "title": "Casquette NY",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "casquette3.jpg",
             "price": "25€",
             "categorie": "casquette"
         },
 
         {
             "id": 12,
-            "title": "Casquette",
+            "title": "Casquette Rouge",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
-            "image": "teeshirtblanc.jpg",
+            "image": "casquette4.jpg",
             "price": "25€",
             "categorie": "casquette"
         }
