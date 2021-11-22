@@ -1,6 +1,5 @@
 {
-    "teeShirt": [
-        {
+    "results": [{
             "id": 1,
             "title": "Tee shirt bleu",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
@@ -15,9 +14,9 @@
             "image": "teeshirtblanc.jpg",
             "price": "25€",
             "categorie": "teeShirt"
-            
+
         },
-    
+
         {
             "id": 3,
             "title": "Tee shirt bleu",
@@ -25,7 +24,7 @@
             "image": "teeshirtblanc.jpg",
             "price": "25€",
             "categorie": "teeShirt"
-            
+
         },
 
         {
@@ -35,7 +34,7 @@
             "image": "teeshirtblanc.jpg",
             "price": "25€",
             "categorie": "teeShirt"
-            
+
         },
 
         {
@@ -45,7 +44,7 @@
             "image": "teeshirtblanc.jpg",
             "price": "25€",
             "categorie": "chaussure"
-           
+
         },
 
         {
@@ -110,10 +109,8 @@
             "price": "25€",
             "categorie": "casquette"
         }
-        
+
     ]
 
-    
+
 }
-
-
