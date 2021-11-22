@@ -1,8 +1,8 @@
-fetch("assets/json/donnees.json")
+fetch("./donnees.json")
   .then((response) => response.json())
   .then((data) => {
     data.results.forEach((element) => {
-      document.getElementById("card").innerHTML += `
+      document.getElementById("copy").innerHTML += `
       <div class="card m-3" style="width: 18rem">
         <img src="${element.image}" id="picture" class="card-img-top" alt="">
         <div class="card-body">
