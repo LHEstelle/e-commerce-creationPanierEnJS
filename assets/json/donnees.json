@@ -4,15 +4,15 @@
             "title": "Tee shirt bleu",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
             "image": "teeshirtbleu.jpg",
-            "price": "25€",
+            "price": "12€",
             "categorie": "teeShirt"
         },
         {
             "id": 2,
             "title": "Tee shirt Enfant",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Toute une gamme de tee-shirts enfant imprimés à petit prix.",
             "image": "teeshirtenfant.jpg",
-            "price": "25€",
+            "price": "6€",
             "categorie": "teeShirt"
 
         },
@@ -22,7 +22,7 @@
             "title": "Tee shirt jaune",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
             "image": "teeshirtjaune.jpg",
-            "price": "25€",
+            "price": "12€",
             "categorie": "teeShirt"
 
         },
@@ -30,9 +30,9 @@
         {
             "id": 4,
             "title": "Tee shirt phrase",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Le tee-shirt moi le chef blanc naturel est léger et écoresponsable grâce à sa matière en lin certifié GOTS et français !",
             "image": "teeshirtphrase.jpg",
-            "price": "25€",
+            "price": "18€",
             "categorie": "teeShirt"
 
         },
@@ -40,9 +40,9 @@
         {
             "id": 5,
             "title": "Chaussure Nike",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Réinventant l'esthétique Nike Running rétro pour le nouveau millénaire, la Nike Air Max Pre-Day vous offre un look inspiré par le rythme effréné de nos modes de vie contemporains.Composée d'au moins 20 % de matières recyclées, elle rend hommage au passé en restant fidèle à l'esthétique rétro des chaussures d'athlétisme.La nouvelle fenêtre Air dynamise le look, alliant un style saisissant à un amorti incroyablement léger.",
             "image": "chaussure1.jpg",
-            "price": "25€",
+            "price": "119€",
             "categorie": "chaussure"
 
         },
@@ -50,63 +50,63 @@
         {
             "id": 6,
             "title": "Chaussure Adidas",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Les célébrations peuvent aussi se faire dans la discrétion. Parfois, la meilleure façon d'apprécier une chose est de simplement mettre en avant tout ce qui la rend incroyable. Comme pour cette chaussure adidas Superstar. Revisitée dans un style épuré, cette version rend hommage aux 50 ans d'une icône culturelle. La tige souple est réinventée en cuir premium et en suède, mais le shell-toe en caoutchouc reste fidèle à son héritage légendaire.",
             "image": "chaussure2.jpg",
-            "price": "25€",
+            "price": "90€",
             "categorie": "chaussure"
         },
 
         {
             "id": 7,
             "title": "Chaussure Nike femme",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Aventurez-vous hors des sentiers battus et bravez la pluie avec la Nike Pegasus Trail 3 GORE-TEX.Elle reprend l'amorti confortable que vous aimez, et incorpore une adhérence résistante et une conception améliorée au milieu du pied pour un maintien neutre et sûr.L'empeigne imperméable permet de braver les sentiers rocailleux, même lorsque la météo orageuse essaye de vous ralentir.Ne laissez pas la pluie vous arrêter. Lacez vos chaussures et défiez les éléments.",
             "image": "chaussure3.jpg",
-            "price": "25€",
+            "price": "109€",
             "categorie": "chaussure"
         },
 
         {
             "id": 8,
             "title": "Chaussure Air jordan",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Sortez du lot avec la Jordan MA2. Fabriquée dans un mélange de daim, de cuir pleine fleur et de plusieurs matières textiles, elle affiche des étiquettes non conventionnelles, des micro-motifs techniques et des bords en mousse bruts pour un look offrant un équilibre parfait entre style contemporain et codes classiques. Facile à enfiler et à retirer, elle peut se porter avec toutes vos tenues.",
             "image": "chaussure4.jpg",
-            "price": "25€",
+            "price": "139€",
             "categorie": "chaussure"
         },
 
         {
             "id": 9,
             "title": "Casquette Timberland",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Craquez pour la tendance velours et passez l’hiver la tête au chaud, avec cette belle snapback beige de la marque spécialisée Timberland. La visière est assortie au patch en losange gravé devant.",
             "image": "casquette1.jpg",
-            "price": "25€",
+            "price": "36€",
             "categorie": "casquette"
         },
 
         {
             "id": 10,
             "title": "Casquette Heineken",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Offrez un cadeau beau et unique avec cette casquette originale fabriquée entièrement à base de canettes en aluminium. Cette oeuvre a été imaginée par Babacar Diawara, créateur malien installé au Sénégal. Il détourne les capsules, boîtes, canettes, barils métalliques pour créer des objets surprenants.",
             "image": "casquette2.jpg",
-            "price": "25€",
+            "price": "20€",
             "categorie": "casquette"
         },
 
         {
             "id": 11,
             "title": "Casquette NY",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Adoptez le chic graphique des modèles Triple Tone de la marque NY, en portant cette casquette trucker qui combine du noir, du gris clair et du gris foncé.",
             "image": "casquette3.jpg",
-            "price": "25€",
+            "price": "28€",
             "categorie": "casquette"
         },
 
         {
             "id": 12,
             "title": "Casquette Rouge",
-            "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
+            "description": "Nous avons été conquis par l’allure soignée de cette trucker rouge en jersey confortable, relevée d’un patch en rond en cuir gravé et d’une visière au dessous de couleur assortie.",
             "image": "casquette4.jpg",
-            "price": "25€",
+            "price": "16€",
             "categorie": "casquette"
         }
 
