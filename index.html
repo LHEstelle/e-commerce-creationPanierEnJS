@@ -9,7 +9,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!--ICI CDN BOOTSRAP-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css">
-    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>ESMAX</title>
 </head>
 
@@ -31,29 +31,77 @@
             <div class="collapse navbar-collapse text-end" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Tee shirts</a>
+                        <a class="nav-link" href="#" id="teeShirt" onclick="showArticle('teeShirt')">Tee
+                            shirts</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Chaussures</a>
+                        <a class="nav-link" href="#" id="shoes" onclick="showArticle('chaussure')">Chaussures</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Casquettes</a>
+                        <a class="nav-link" href="#" id="capette" onclick="showArticle('casquette')">Casquettes</a>
                     </li>
                 </ul>
             </div>
-            <a class="navbar-brand col-1-lg text-end" href="#">
-                <i class="bi bi-basket2"></i>
-            </a>
-        </div>
+
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-dark" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                <i class="bi bi-basket"></i>
+            </button>
+            <p id="panierNb"></p>
+
 
     </nav>
 
     <!---------------------------- DIV POUR LA CARD --------------------------------------- -->
-    <div class="row justify-content-evenly m-3" id="card">
+    <div class="row justify-content-between m-3" id="allCards">
     </div>
 
 
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Votre Panier</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Référence</th>
+                                <th>Article</th>
+                                <th>Prix</th>
+                                <th>Quantité</th>
+                                <th>Total</th>
+                            </tr>
+                        </thead>
+                        <tbody id="myTable">
+                            <!-- <tr>
+                                <th>1</th>
+                                <td>tee shirt bleu</td>
+                                <td>25€</td>
+                                <td>1</td>
+                                <td>25</td>
+                            </tr> -->
+                        </tbody>
+                        <tfoot>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td>TOTAL</td>
+                            <td>65</td>
+                        </tfoot>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
+    </script>
     <script src="assets/js/script.js"></script>
+
 </body>
 
 </html>

@@ -1,6 +1,6 @@
 {
     "results": [{
-            "id": 1,
+            "reference": 1,
             "title": "Tee shirt bleu",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
             "image": "teeshirtbleu.jpg",
@@ -8,7 +8,7 @@
             "categorie": "teeShirt"
         },
         {
-            "id": 2,
+            "reference": 2,
             "title": "Tee shirt Enfant",
             "description": "Toute une gamme de tee-shirts enfant imprimés à petit prix.",
             "image": "teeshirtenfant.jpg",
@@ -18,7 +18,7 @@
         },
 
         {
-            "id": 3,
+            "reference": 3,
             "title": "Tee shirt jaune",
             "description": "Tee-shirt à la coupe contemporaine en coton organique. Construction tubulaire. Côtes fines 1x1 au niveau du col pour un look moderne. Etiquette visible dans le col “Hi! I’m Organicâ€? pour mettre en valeur l'aspect organique du vêtement. Bande de propreté au col pour une finition soignée. Composition : 100 % coton peigné prérétréci organique certifié OCS à fil de chaîne continu (ring-spun).",
             "image": "teeshirtjaune.jpg",
@@ -28,7 +28,7 @@
         },
 
         {
-            "id": 4,
+            "reference": 4,
             "title": "Tee shirt phrase",
             "description": "Le tee-shirt moi le chef blanc naturel est léger et écoresponsable grâce à sa matière en lin certifié GOTS et français !",
             "image": "teeshirtphrase.jpg",
@@ -38,7 +38,7 @@
         },
 
         {
-            "id": 5,
+            "reference": 5,
             "title": "Chaussure Nike",
             "description": "Réinventant l'esthétique Nike Running rétro pour le nouveau millénaire, la Nike Air Max Pre-Day vous offre un look inspiré par le rythme effréné de nos modes de vie contemporains.Composée d'au moins 20 % de matières recyclées, elle rend hommage au passé en restant fidèle à l'esthétique rétro des chaussures d'athlétisme.La nouvelle fenêtre Air dynamise le look, alliant un style saisissant à un amorti incroyablement léger.",
             "image": "chaussure1.jpg",
@@ -48,7 +48,7 @@
         },
 
         {
-            "id": 6,
+            "reference": 6,
             "title": "Chaussure Adidas",
             "description": "Les célébrations peuvent aussi se faire dans la discrétion. Parfois, la meilleure façon d'apprécier une chose est de simplement mettre en avant tout ce qui la rend incroyable. Comme pour cette chaussure adidas Superstar. Revisitée dans un style épuré, cette version rend hommage aux 50 ans d'une icône culturelle. La tige souple est réinventée en cuir premium et en suède, mais le shell-toe en caoutchouc reste fidèle à son héritage légendaire.",
             "image": "chaussure2.jpg",
@@ -57,7 +57,7 @@
         },
 
         {
-            "id": 7,
+            "reference": 7,
             "title": "Chaussure Nike femme",
             "description": "Aventurez-vous hors des sentiers battus et bravez la pluie avec la Nike Pegasus Trail 3 GORE-TEX.Elle reprend l'amorti confortable que vous aimez, et incorpore une adhérence résistante et une conception améliorée au milieu du pied pour un maintien neutre et sûr.L'empeigne imperméable permet de braver les sentiers rocailleux, même lorsque la météo orageuse essaye de vous ralentir.Ne laissez pas la pluie vous arrêter. Lacez vos chaussures et défiez les éléments.",
             "image": "chaussure3.jpg",
@@ -66,7 +66,7 @@
         },
 
         {
-            "id": 8,
+            "reference": 8,
             "title": "Chaussure Air jordan",
             "description": "Sortez du lot avec la Jordan MA2. Fabriquée dans un mélange de daim, de cuir pleine fleur et de plusieurs matières textiles, elle affiche des étiquettes non conventionnelles, des micro-motifs techniques et des bords en mousse bruts pour un look offrant un équilibre parfait entre style contemporain et codes classiques. Facile à enfiler et à retirer, elle peut se porter avec toutes vos tenues.",
             "image": "chaussure4.jpg",
@@ -75,7 +75,7 @@
         },
 
         {
-            "id": 9,
+            "reference": 9,
             "title": "Casquette Timberland",
             "description": "Craquez pour la tendance velours et passez l’hiver la tête au chaud, avec cette belle snapback beige de la marque spécialisée Timberland. La visière est assortie au patch en losange gravé devant.",
             "image": "casquette1.jpg",
@@ -84,7 +84,7 @@
         },
 
         {
-            "id": 10,
+            "reference": 10,
             "title": "Casquette Heineken",
             "description": "Offrez un cadeau beau et unique avec cette casquette originale fabriquée entièrement à base de canettes en aluminium. Cette oeuvre a été imaginée par Babacar Diawara, créateur malien installé au Sénégal. Il détourne les capsules, boîtes, canettes, barils métalliques pour créer des objets surprenants.",
             "image": "casquette2.jpg",
@@ -93,7 +93,7 @@
         },
 
         {
-            "id": 11,
+            "reference": 11,
             "title": "Casquette NY",
             "description": "Adoptez le chic graphique des modèles Triple Tone de la marque NY, en portant cette casquette trucker qui combine du noir, du gris clair et du gris foncé.",
             "image": "casquette3.jpg",
@@ -102,7 +102,7 @@
         },
 
         {
-            "id": 12,
+            "reference": 12,
             "title": "Casquette Rouge",
             "description": "Nous avons été conquis par l’allure soignée de cette trucker rouge en jersey confortable, relevée d’un patch en rond en cuir gravé et d’une visière au dessous de couleur assortie.",
             "image": "casquette4.jpg",
